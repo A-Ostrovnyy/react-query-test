@@ -1,0 +1,10 @@
+:root {
+    --blanched-almond: #ffebcd;
+    --blackRGB: 0, 0, 0;
+}
+
+.container {
+    max-width: 1920px;
+    width: 100%;
+    padding: 20px;
+}
